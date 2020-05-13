@@ -5,5 +5,6 @@ public class Demo {
 	System.out.println("----bbbb---");
 	System.out.println("-444--");
 	System.out.println("--master--");
+	System.out.println("--release---");
 }
 }
